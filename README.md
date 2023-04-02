@@ -8,7 +8,7 @@
  
 ## [Project 2: Deforestation Project via SQL](https://github.com/AO-Kareemat/Deforestation-Project.git)
 
-This project was built to 
+This project was built to illustrate the impact of deforestation on different countries around the world by writing queries using MS SQL Servers. I used different questions to understand the extent and dynamics of forest cover over the years which are crucial for effective forest management and conservation. These questions and answers gives insight into the state of forests in different countries and regions, and to monitor changes in forest cover over time. It can also be used to evaluate the effectiveness of forest conservation policies and initiatives.
 
 ## [Project 3: US census Analysis Using Tableau](https://public.tableau.com/app/profile/kareemat.oladele/viz/KareematOladeleUSCensus/USCENSUSANALYSIS)
 
