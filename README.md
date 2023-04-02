@@ -10,6 +10,6 @@
 
 This project was built to illustrate the impact of deforestation on different countries around the world by writing queries using MS SQL Servers. I used different questions to understand the extent and dynamics of forest cover over the years which are crucial for effective forest management and conservation. These questions and answers gives insight into the state of forests in different countries and regions, and to monitor changes in forest cover over time. It can also be used to evaluate the effectiveness of forest conservation policies and initiatives.
 
-## [Project 3: US census Analysis Using Tableau](https://public.tableau.com/app/profile/kareemat.oladele/viz/Kareemat-USCensusAnalysisTableauProject1/USCENSUSANALYSIS)
+## [Project 3: US census Analysis Using Tableau](https://github.com/AO-Kareemat/TABLEAU-PROJECT.git)
 
 This project was aimed to analyse the United States of America's census. I visualised the best transportation system, the average income and poverty rate, ethnicity and labour in the US using varieties of charts, sets, functions, calculated field, filters etc. 
