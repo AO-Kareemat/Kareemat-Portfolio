@@ -1,7 +1,19 @@
 # Kareemat-Portfolio
-## Analytics Repository
+## Analytics & Data Visualisation Repository
 
-## [Project 1: Excel Analysis of Key Performance Indicators of New York Stock Exchange Companies ](https://docs.google.com/spreadsheets/d/1FEdlSEeWfBA6r9amaltNMoB3ujbPTiVklPYjfiCyaAc/edit#gid=1969204835)
+## [Project 1: Customer Segmentation, Comparative Analysis, and Value of Used Cars](https://public.tableau.com/authoring/UsedCarsVisualizations/Dashboard1#1)
+I looked at the value of used cars in 11 cities in India, using calculated fields to derive car values, pages, and filters, parameters to determine the most sought-after car towns based on power, engine, value, fuel type, and owner type. 
+
+* Sourced market research-focused data from open sources. 
+* Uploaded data on Tableau Public.
+* Cleaned data and categorised it into the necessary fields like text and number values. 
+* Visualised the best-used car model using a bar chart by owner type and fuel type, to be filtered by hierarchy or car names.
+* Determined and visualized the locations with the most costly cars.
+* Compared the year when the car was manufactured with drivers' choice of selecting a car as first, second, third, or above "owner type".
+* Compared the car power with fuel type to show if there is relationship, 
+
+
+## [Project 2: Excel Analysis of Key Performance Indicators of New York Stock Exchange Companies ](https://docs.google.com/spreadsheets/d/1FEdlSEeWfBA6r9amaltNMoB3ujbPTiVklPYjfiCyaAc/edit#gid=1969204835)
  
  This Project was built to analyse the Key Performance Indicators of Companies in NYSE. 
  
@@ -12,7 +24,7 @@
 * Utilized index, match, offset, and statistical formulas in the financial modeling process.
 * Created descriptive statistics and bar charts to illustrate COGS and its differences between the Utility and Telecommunication sectors in NYSE companies.
  
-## [Project 2: Deforestation Project via SQL](https://github.com/AO-Kareemat/Deforestation-Project.git)
+## [Project 3: Deforestation Project via SQL](https://github.com/AO-Kareemat/Deforestation-Project.git)
 
 This project was built to illustrate the impact of deforestation on different countries around the world by writing queries using MS SQL Servers. 
 
@@ -22,7 +34,7 @@ This project was built to illustrate the impact of deforestation on different co
 * Generated answers to questions to evaluate the effectiveness of forest conservation policies and initiatives.
 * Demonstrated the crucial role of effective forest management and conservation.
 
-## [Project 3: US census Analysis Using Tableau](https://github.com/AO-Kareemat/TABLEAU-PROJECT.git)
+## [Project 4: US census Analysis Using Tableau](https://github.com/AO-Kareemat/TABLEAU-PROJECT.git)
 
 This project was aimed to analyse the United States of America's census. 
 
