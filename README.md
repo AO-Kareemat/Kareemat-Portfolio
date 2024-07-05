@@ -10,8 +10,6 @@ I looked at the value of used cars in 11 cities in India, using calculated field
 * Visualised the best-used car model using a bar chart by owner type and fuel type, to be filtered by hierarchy or car names.
 * Determined and visualized the locations with the most costly cars.
 * Compared the year when the car was manufactured with drivers' choice of selecting a car as first, second, third, or above "owner type".
-* Compared the car power with fuel type to show if there is relationship, 
-
 
 ## [Project 2: Excel Analysis of Key Performance Indicators of New York Stock Exchange Companies ](https://docs.google.com/spreadsheets/d/1FEdlSEeWfBA6r9amaltNMoB3ujbPTiVklPYjfiCyaAc/edit#gid=1969204835)
  
