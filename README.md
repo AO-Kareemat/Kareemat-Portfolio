@@ -1,11 +1,11 @@
 # Kareemat-Portfolio
-## Analytics & Data Visualisation Repository
+## Analytics, Insights & Visualisation Repository
 
-## [Project 1: Market Analysis, Market Research, and Advise on policy making for automotive cars in the United States](https://docs.google.com/spreadsheets/d/1bsCFo5-JLFRkKuKR_Ucda8O_pNAWton6tyJlefQn4x8/edit?usp=sharing)
+## [Project 1: Market Analysis, Market Research, and Advice on policy making for automotive cars in the United States](https://docs.google.com/spreadsheets/d/1bsCFo5-JLFRkKuKR_Ucda8O_pNAWton6tyJlefQn4x8/edit?usp=sharing)
 Using Google sheets, I performed market research and analysis on the value of automotive cars in over 9 Colorado counties in 4 different quarters from 2008 to 2015.
 * Prepared and cleaned data by removing duplicates, and validating the data.
 * Utilised the sort and filter function to have a close look at specific quarters in the year and corresponding cities and sales figures to see how they performed over the years.
-* Created vlookup function to find specific car price values in counties columns and return car price from county and sales table arrays. 
+* Created vlookup function to find specific car price values in counties columns and return car prices from county and sales table arrays. 
 * Used pivot chart to summarize, explore, and group total values of cars per quarter in each county to determine what quarter of the year we have the highest number of sales. 
 
 ## [Project 2: Customer Segmentation, Comparative Analysis, and Value of Used Cars](https://public.tableau.com/authoring/UsedCarsVisualizations/Dashboard1#1)
