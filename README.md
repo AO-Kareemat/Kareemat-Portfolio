@@ -41,7 +41,7 @@ This project was built to illustrate the impact of deforestation on different co
 
 ## [Project 5: US census Analysis Using Tableau](https://github.com/AO-Kareemat/TABLEAU-PROJECT.git)
 
-This project was aimed to analyse the United States of America's census. 
+This project aimed to analyse the United States of America's census. 
 
 * Visualized the best transportation system, average income, poverty rate, ethnicity, and labor in the US.
 * Used various charts, sets, functions, and calculated fields to create interactive and engaging visualizations.
